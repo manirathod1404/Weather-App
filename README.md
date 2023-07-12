@@ -1,6 +1,7 @@
 # WEATHER FORECASTING WEBSITE
 
-# ABOUT
+ ABOUT
+ 
 ❖ Built a web application that provides users the
 weather conditions based on your search
 locations.
@@ -16,7 +17,7 @@ Tech stack:
 ● CSS,
 ● Javascript
 
-# Screensort:
+DEMO:
 
 ![WhatsApp Image 2023-07-12 at 17 20 07](https://github.com/manirathod1404/Weather-App/assets/128643735/7dd9a08b-3f30-42fe-a101-d6539edf7f85)
 
